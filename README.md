@@ -14,7 +14,7 @@ Given a set consisting of n integers [a1, a2, … an], you want to partition int
 # Sample Data to test the code
 To test this code, some positive scenarios for n = 5, 10, 50, 100, 200, 400 and 500 are as follows:
 
-[1, 2, 3, 5, 1]\n
+[1, 2, 3, 5, 1]
 Total sum: 12
 n: 5
 
