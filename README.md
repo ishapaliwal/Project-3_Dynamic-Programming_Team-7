@@ -4,7 +4,7 @@ The Dynamic Programming algorithm to compute Pseudo-polynomial Partition of a se
 
 # Problem Statement
 
-**Pseudo-polynomial Partition**
+**Pseudo-polynomial Partition**:
 Given a set consisting of n integers [a1, a2, … an], you want to partition into two parts so that the sum of the two parts is equal.  Suppose s =  a1 + a2 … + an. The time complexity of your algorithm should be O(ns) or better.  [Note: Due to the presence of the term s in the time complexity, such an algorithm is called a pseudo-polynomial algorithm.]
 
 # Result
@@ -14,7 +14,7 @@ Given a set consisting of n integers [a1, a2, … an], you want to partition int
 # Sample Data to test the code
 To test this code, some positive scenarios for n = 5, 10, 50, 100, 200, 400 and 500 are as follows:
 
-[1, 2, 3, 5, 1]
+[1, 2, 3, 5, 1]\n
 Total sum: 12
 n: 5
 
